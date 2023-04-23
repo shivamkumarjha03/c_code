@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+
 void addmat(int [10][10],int [10][10],int,int); //function prototype
 int main()
 {
